@@ -20,6 +20,6 @@
 
 ### Credits:
 1) Meghana Holla : https://github.com/meghana-holla
-1) Ornella D'souza : https://github.com/Onurene
+1) Naklecha : https://github.com/naklecha
 
 ##### *"Any suggestions would be appreciated"*
